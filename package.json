@@ -1,0 +1,26 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fehmialtinbas/electron_app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "MFA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fehmialtinbas/electron_app/issues"
+  },
+  "homepage": "https://github.com/fehmialtinbas/electron_app#readme",
+  "dependencies": {
+    "electron": "^21.2.0"
+  }
+}
